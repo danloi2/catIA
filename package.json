@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "myst-directives": "^1.5.12",
+    "myst-roles": "^1.5.12",
+    "unist-builder": "^4.0.0"
+  }
+}

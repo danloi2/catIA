@@ -1,0 +1,36 @@
+---
+title: Oración de la IA
+subtitle: Tarea de Final I
+subject: Prompt I
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+---
+
+
+**4. Tarea final: ORACIÓN de la IA - La Creación de Prompts**
+
+* **Introducción:**  **Breve presentación teórica (10 minutos):**  "El Arte de la Oración con la IA:  Creando Prompts Efectivos":  Se explicará **qué es un prompt efectivo** (claro,  concreto,  contextualizado,  que especifica el rol de la IA y el formato deseado).  Se presentarán **ejemplos de prompts para diferentes tareas docentes** (planificación,  creación de materiales,  evaluación,  etc.)  y **consejos para la creación de prompts efectivos** (iteración,  refinamiento,  prueba y error).  Se enfatizará la idea de **ver la creación de prompts como un diálogo con la IA**,  similar a la oración como comunicación íntima que guía la acción.  Se pueden usar **diapositivas con ejemplos de prompts y "plantillas" para su creación.**
+* **Tarea final (30 minutos):**  **"Mi Prompt para la IA Docente":**  Individualmente,  cada docente **diseña un prompt de IA** que le ayude a realizar una tarea específica de su práctica docente **en su área de conocimiento**.  Deben elegir una tarea de entre las siguientes (o proponer otra similar):
+
+    * **Ámbito Lingüístico:**  Generar ideas para una actividad de escritura creativa en [Lengua Castellana y Literatura/Inglés/Francés/Latín].
+    * **Ámbito Científico-Tecnológico:**  Crear un problema de [Matemáticas/Física y Química/Biología y Geología/Tecnología y Digitalización] con solución paso a paso para alumnos de [Nivel Educativo].
+    * **Ámbito Social:**  Diseñar un cuestionario de preguntas guía para analizar un [acontecimiento histórico/fenómeno geográfico] en [Geografía e Historia].
+    * **Ámbito Artístico:**  Generar ideas para una presentación interactiva sobre [Música/Educación Plástica, Visual y Audiovisual/Cultura Audiovisual] para alumnos de [Nivel Educativo].
+    * **Ámbito Corporal y Salud:**  Crear una rutina de ejercicios diferenciada para alumnos con [necesidades específicas] en [Educación Física].
+    * **Ámbito Ético y Ciudadano:**  Diseñar un caso práctico para un debate ético en clase de [Valores Cívicos y Éticos/Religión] sobre [tema ético].
+
+    Una vez creado el prompt,  deben **probarlo en una herramienta de IA generativa de texto** (ej:  ChatGPT,  Bard) y **evaluar el resultado**.  Si el resultado no es satisfactorio,  deben **refinar el prompt y volver a probarlo** (iteración).
+
+    **Recursos:**  Se proporcionará una **hoja de trabajo con "plantillas" para la creación de prompts** (ej:  "Actúa como un profesor de [asignatura] de [nivel educativo].  Necesito un prompt para que me ayudes a...  Quiero que el resultado sea en formato de...  Ten en cuenta...").  Se recordarán **enlaces a herramientas de IA generativa de texto** exploradas en la Tarea 2.
+* **Rúbrica de evaluación (Tarea Final):**
+
+        | Criterio               | Insuficiente (1-4) | Suficiente (5-7) | Notable (8-9) | Sobresaliente (10) |
+        |------------------------|--------------------|-------------------|---------------|--------------------|
+        | Concreción del prompt |  Ambiguo o poco claro |  Concreto pero mejorable |  Claro y concreto |  Muy claro y específico |
+        | Resolubilidad          |  No produce resultado útil |  Resultado básico o incompleto |  Resultado útil y relevante |  Resultado excelente y muy útil |
+        | Significatividad para docencia |  Poca o ninguna relevancia |  Relevancia básica |  Relevancia significativa |  Alta relevancia e impacto potencial |
+        | Iteración y mejora     |  No hay iteración o mejora |  Iteración superficial |  Iteración con mejora evidente |  Iteración efectiva y refinamiento del prompt |
+
+* **Diario de aprendizaje (Tarea Final):**  Cada docente **publica en el Padlet**  el prompt que ha creado,  una **captura de pantalla del resultado obtenido** en la herramienta de IA y una **breve reflexión sobre la utilidad del prompt** para su práctica docente.  Pueden añadir **una pregunta que les haya surgido** al crear y probar el prompt.

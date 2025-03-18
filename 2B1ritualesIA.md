@@ -1,0 +1,129 @@
+---
+title: Tarea de Desarrollo II
+subtitle: Rituales de la IA para la labor docente
+subject: Liturgia de la IA
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+---
+
+# Introducción
+
+En esta actividad, tendrás la oportunidad de explorar de forma práctica diversas **herramientas de Inteligencia Artificial** y reflexionar sobre su integración en los procesos de enseñanza-aprendizaje en el contexto de la educación secundaria. `(30')`
+
+# Objetivo de Aprendizaje
+
+Nivel de [Taxonomía Bloom](https://www.theflippedclassroom.es/wp-content/uploads/2015/01/bloom.001.jpg) en el Dominio de Aprendizaje Cognitivo:
+
+* Desarrollo de **Habilidades de Pensamiento Superior**
+    * 3️⃣ **Aplicar**
+    
+::::{important} Objetivo de la Tarea
+:::{pull-quote}
+
+**Explorar y reflexionar** sobre el uso de diferentes herramientas de IA (Gémini, Qwen, ChatGPT, Copilot) en el contexto real de la educación secundaria, probando su funcionalidad básica y generando ideas sobre posibles aplicaciones prácticas en la docencia diaria.
+
+:::
+::::
+
+# Descripción de la Tarea
+
+1.  **FAMILIARIZATE** con la idea de integrar herramientas de IA en las rutinas del aula como "rituales" para potenciar el aprendizaje y la creatividad, tal como se mencionó en la introducción teórica del taller. `(5')`
+
+2. **ELIGE** una de las siguientes herramientas de IA educativa para explorar: **Gémini, Qwen, ChatGPT, Copilot, Napkin, NotebookLM o TeacherServer** `(15')`
+
+a) Utiliza la herramienta que has elegido y dale alguna de las siguientes instrucciónes (o una similar, adaptada a tu área de conocimiento):
+
+* **Herramientas para la generación de Textos e imágenes** 
+    * **Generación de Resúmenes**
+
+        * "Genera un breve resumen de la Guerra Fría para estudiantes de secundaria."
+        * "Resume en dos frases las principales ideas del poema "Volverán las oscuras golondrinas" de Bécquer.
+
+    * **Generación de Imágenes** 
+
+        * "Crea una imagen que represente el descubrimiento de Ámerica por parte de los españoles."
+        * "Genera una ilustración sencilla de las fases de la mitosis."
+        * "Visualiza un paisaje de la selva amazónica."
+        * "Genera la imagen del simbolo matematico Pi."
+        * "Genera una imagen que represente un ejercicio aerobico realizado por un adolescente."
+
+    * **Realización de Traducciones**
+
+        * "Traduce al Latín la frase: 'La importancia de aprender idiomas'."
+        * "Traduce al Inglés un breve texto sobre el descubrimiento de América."
+
+    * **Generación de Texto en {ref}`lectura`**
+        * "Genera un texto en lectura fácil relacionado con esta definición de Sociedad: El término sociedad (del latín societas) se refiere a un concepto polisémico que designa a un tipo particular de agrupación de individuos que se produce tanto entre los humanos (sociedad humana o sociedades humanas, en plural) como entre algunos animales (sociedades animales). En ambos casos, las relaciones que se establecen entre los individuos involucran cierto grado de comunicación y cooperación, que en un nivel superior implica la transmisión de conocimientos y comportamientos por el aprendizaje."
+        * "Genera una texto en lectura facilitada relacionado con la definición de análisis morfologico"
+        * "Reescribe de forma más sencilla el siguiente párrafo sobre las inecuaciones para alumnos de 16 años: Las inecuaciones son desigualdades algebraicas. Es decir, una inecuación es una expresión algebraica en la que aparece el signo <, >, ≤ o ≥. Además, la solución de una inecuación es un intervalo de números.Por lo tanto, la diferencia entre una ecuación y una inecuación es que las ecuaciones siempre tienen el signo =, en cambio, las inecuaciones pueden tener el signo el signo <, >, ≤ o ≥. Asimismo, la solución de una ecuación es un único número, mientras que la solución de una inecuación es un intervalo de valores."
+
+    * **Otras Generaciones de Texto**:
+
+        * "Sugiere 3 ideas para un debate en clase sobre la contaminación."
+        * "Genera 5 preguntas de opción múltiple sobre la Revolución Industrial."
+        * "Escribe un breve poema sobre la importancia del agua."
+
+* **Herramientas para el Análisis de Grandes Cantidades de Información**
+
+    * "Resume esta entrada de Wikipedia sobre la Primera República Francesa en tres puntos clave: https://es.wikipedia.org/wiki/Primera_Rep%C3%BAblica_francesa"
+    * "Extrae los principales argumentos a favor y en contra de la energía nuclear del siguiente texto: https://www.rtve.es/noticias/20090702/razones-a-favor-y-en-contra-de-la-energia-nuclear/283254.shtml
+
+* **Herramientas para la Generación de Esquemas** 
+
+    * "Crea un mapa mental básico sobre las causas y consecuencias de la Segunda Guerra Mundial."
+    * "Genera un esquema visual de los diferentes tipos de ecosistemas."
+
+* **Compilación de Herramientas para el Entorno Escolar**
+
+    * "Genera un cuestionario de 10 preguntas sobre el tema de [un tema específico de secundaria] con respuestas."
+    * "Crea un breve plan de lección para una clase de Educación Física sobre la Salud Física para alumnos de 14 años."
+    * "Sugiere diferentes métodos de evaluación para un proyecto sobre el arte románico en España."
+
+3.  **PIENSA** en cómo la herramienta que has probado podría tener una aplicación práctica en tu docencia diaria o en la de otros profesores de secundaria. Considera las siguientes preguntas: `(5')`
+
+    * ¿De qué manera podría esta herramienta ayudarte a optimizar la preparación de tus clases (generación de ideas, resúmenes, etc.)?
+    * ¿Cómo crees que esta herramienta podría ser utilizada por los estudiantes para apoyar su aprendizaje (investigación, comprensión de conceptos, generación de ideas, etc.)?
+
+4.  **COMPARTE** brevemente tu experiencia y una posible aplicación práctica de la herramienta que exploraste con el resto de los participantes. `(5')`
+
+# Recursos
+
+**Lecturas**
+
+:::{seealso} Puedes consultar
+:class: dropdown
+En [Teoria de la Liturgia de la IA](2B0app.md) tiene információn básica sobre la {ref}`lectura`. 
+:::
+
+**Recursos TIC**
+
+* [Gémini de Google](https://gemini.google.com/)
+* [Qwen](https://chat.qwen.ai/)
+* [ChatGPT](https://chat.openai.com/)
+* [Copilot](https://copilot.microsoft.com/)
+* [NotebookLM](https://notebooklm.google.com/)
+* [Napkin](https://https://www.napkin.ai/)
+* [TeacherServer](https://teacherserver.com/)
+
+# Entregas al Mural de Aprendizaje Colaborativo
+
+La entrega de esta actividad se realizará mediante la participación en el taller.
+
+:::{iframe} https://padlet.com/embed/vbqdwarbv2c507o0
+:width: 100%
+Catecismo de la IA
+:::
+
+Para participar:
+**Referencia**
+
+1. **Accede al Padlet** previamente creado, titulado `Catecismo de la IA`, utilizando el siguiente enlace: [https://padlet.com/daniellosada1/cateIA](https://padlet.com/daniellosada1/cateIA)
+2. En el Padlet, **crea una entrada** en el apartado correspondiente a la `Tarea II: Liturgia de la IA` con los siguientes elementos:
+
+* **Herramienta Utilizada:** Indica cuál de las  herramientas de IA exploraste (Gémini, Qwen, ChatGPT, Napkin, NotebookLM, TeacherServer o Copilot).
+* **Breve Descripción de la Prueba:** Describe brevemente la instrucción o tarea que le diste a la herramienta.
+* **Respuesta o resultado de la IA:** Recoge el resultado o respuesta dada por la IA
+* **Posible Aplicación Práctica:** Comparte una idea concreta sobre cómo esta herramienta podría aplicarse en la práctica docente en secundaria.
+* **Valoración de la IA:** .Incluye una breve valoración sobre las ventajas e inconvenientes del uso de la IA que elegiste en la labor docente.

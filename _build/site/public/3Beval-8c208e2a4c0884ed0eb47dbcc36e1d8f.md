@@ -1,0 +1,31 @@
+---
+title: ¿Cómo valoras el taller?
+subtitle: Evaluación de Contenidos y del Impartidor
+subject: Evaluación del Taller
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+---
+
+# Evaluación del Taller
+
+Para finalizar el taller, te invito a que valores estos dos aspectos principales:
+
+1.  **Conocimiento Previo y Utilidad:** Evaluación de tu conocimiento inicial y la utilidad percibida de los temas trabajados durante el taller.
+
+2.  **Valoración del Impartidor:** Evaluación del desempeño y la calidad del instructor del taller.
+
+@https://www.menti.com/alu1xuhitxrx
+
+[![Imagen generada por ChatGPT](img/mentiqr.png)](https://www.menti.com/alu1xuhitxrx)
+
+
+
+## Resultados
+
+:::{iframe} https://www.mentimeter.com/app/presentation/algt7qxkjwf6m58vueds8acyb6o31itc/embed
+:width: 100%
+:height: 600px
+:align: center
+:::

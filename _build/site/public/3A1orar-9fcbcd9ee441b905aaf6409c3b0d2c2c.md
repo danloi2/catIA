@@ -1,0 +1,115 @@
+---
+title: Tarea de Final I
+subtitle: Xxxx
+subject: Oración de la IA
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+---
+
+# Introducción
+
+En esta actividad final, tendrás la oportunidad de consolidar tu aprendizaje sobre la integración de la **Inteligencia Artificial generativa** en tu práctica docente. Podrás **aprovechar el trabajo realizado en la @2B1ritualesIA** y, utilizando el **@decaprompt**, mejorar o crear un nuevo prompt para tu labor docente que ya utilizas en el aula de educación secundaria. `(30')`
+
+# Objetivo de Aprendizaje
+
+Nivel de [Taxonomía Bloom](https://www.theflippedclassroom.es/wp-content/uploads/2015/01/bloom.001.jpg) en el Dominio de Aprendizaje Cognitivo:
+
+* Desarrollo de **Habilidades de Pensamiento Superior**
+    * : **Crear**
+
+::::{important} Objetivo de la Tarea
+:::{pull-quote}
+
+**Integrar los conocimientos adquiridos** sobre el uso de herramientas de IA y la creación de prompts efectivos para diseñar un prompt educativo personalizado que pueda mejorar o facilitar una actividad de enseñanza-aprendizaje existente en el contexto real de la educación secundaria.
+
+:::
+::::
+
+# Descripción de la Tarea
+
+1.  **CONSIDERA** la **actividad de enseñanza-aprendizaje que exploraste en la Tarea de Desarrollo II** o **ELIGE una nueva actividad** que actualmente realizas con tus estudiantes de secundaria. `(5')`
+
+2. **REVISA** el **Decálogo para Generar un Buen Prompt Educativo**. Reflexiona sobre cómo los principios de este decálogo podrían aplicarse a la actividad que has elegido. `(5')`
+
+3. **GENERA o MEJORA** un **Prompt Educativo Personalizado** para la actividad seleccionada. Si ya creaste un prompt en la Tarea de Desarrollo II, revísalo y mejóralo utilizando los principios del Decálogo. Si es una actividad nueva, crea un prompt desde cero. Considera los siguientes aspectos al diseñar o mejorar tu prompt: `(15')`
+
+    * **Descripción de la actividad actual:** Describe brevemente la actividad que realizas con tus alumnos.
+    * **Prompt Educativo Personalizado:** Redacta o revisa un prompt específico que le darías a una herramienta de IA generativa para que te asista con esta actividad. Asegúrate de que el prompt sea claro, específico y tenga en cuenta los principios del Decálogo (rol de la IA, tema, objetivo, nivel, contexto, tarea específica, tono, estructura, formato, restricciones).
+    * **Justificación (Opcional):** Brevemente explica cómo has aplicado uno o varios de los principios del Decálogo para mejorar tu prompt.
+
+    * **Ejemplo (Mejora de un prompt anterior):**
+        * **Actividad actual:** "Pido a mis alumnos de Lengua que escriban un cuento corto."
+        * **Prompt Educativo Inicial (de actividad anterior):** "Genera ideas para un cuento corto para alumnos de 2º de ESO."
+        * **Prompt Educativo Personalizado (Mejorado con el Decálogo):** "Actúa como un asistente creativo para un profesor de Lengua de 2º de ESO. El objetivo es que los alumnos escriban un cuento corto de misterio. Sugiere 3 ideas de personajes principales (con una breve descripción de su personalidad y motivación) y 3 posibles escenarios intrigantes para ambientar la historia. El formato de la respuesta debe ser una lista con viñetas para cada personaje y escenario."
+        * **Justificación:** "He especificado el rol de la IA (asistente creativo), el objetivo (cuento de misterio), el nivel educativo (2º de ESO) y el formato deseado (lista con viñetas) siguiendo los principios del Decálogo."
+
+4.  **COMPARTE** brevemente tu actividad actual y el prompt educativo personalizado (nuevo o mejorado) que has creado. `(5')`
+
+# Recursos
+
+**Lecturas**
+
+:::{seealso} Puedes consultar
+:class: dropdown
+En [Teoria del Obrar del Profesorado ante la IA](2C0resp.md) tiene információn básica sobre la {ref}`niveles`.
+:::
+
+**Recursos TIC**
+
+* Aunque no se utilicen directamente, es importante tener en mente la existencia de herramientas como Gémini, Qwen, ChatGPT, Copilot, etc.
+
+# Entregas al Mural de Aprendizaje Colaborativo
+
+La entrega de esta actividad se realizará mediante la participación en el taller.
+
+:::{iframe} [https://padlet.com/embed/vbqdwarbv2c507o0](https://padlet.com/embed/vbqdwarbv2c507o0)
+:width: 100%
+Catecismo de la IA
+:::
+
+Para participar:
+
+1. **Accede al Padlet** previamente creado, titulado `Catecismo de la IA`, utilizando el siguiente enlace: [https://padlet.com/daniellosada1/cateIA](https://padlet.com/daniellosada1/cateIA)
+2. En el Padlet, **crea una entrada** en el apartado correspondiente a la `Tarea III: Obrar del Profesorado ante la IA` con los siguientes elementos:
+
+* **Actividad Actual:** Describe brevemente una actividad de enseñanza-aprendizaje que realizas actualmente.
+* **Prompt Educativo Personalizado:** Comparte el prompt específico que has creado o mejorado para que la IA te asista con esta actividad.
+* **¿Mejoraste un prompt anterior?:** Indica si este prompt es nuevo o una mejora de uno creado en la Tarea de Desarrollo II.
+* **Aplicación del Decálogo (Opcional):** Si mejoraste un prompt anterior o si quieres destacar cómo aplicaste el Decálogo en tu nuevo prompt, puedes mencionarlo brevemente.
+* **Reflexión:** Comparte una breve reflexión sobre cómo este prompt y la IA podrían ayudarte en tu práctica docente.
+```
+
+
+
+
+
+
+
+
+**4. Tarea final: ORACIÓN de la IA - La Creación de Prompts**
+
+* **Introducción:**  **Breve presentación teórica (10 minutos):**  "El Arte de la Oración con la IA:  Creando Prompts Efectivos":  Se explicará **qué es un prompt efectivo** (claro,  concreto,  contextualizado,  que especifica el rol de la IA y el formato deseado).  Se presentarán **ejemplos de prompts para diferentes tareas docentes** (planificación,  creación de materiales,  evaluación,  etc.)  y **consejos para la creación de prompts efectivos** (iteración,  refinamiento,  prueba y error).  Se enfatizará la idea de **ver la creación de prompts como un diálogo con la IA**,  similar a la oración como comunicación íntima que guía la acción.  Se pueden usar **diapositivas con ejemplos de prompts y "plantillas" para su creación.**
+* **Tarea final (30 minutos):**  **"Mi Prompt para la IA Docente":**  Individualmente,  cada docente **diseña un prompt de IA** que le ayude a realizar una tarea específica de su práctica docente **en su área de conocimiento**.  Deben elegir una tarea de entre las siguientes (o proponer otra similar):
+
+    * **Ámbito Lingüístico:**  Generar ideas para una actividad de escritura creativa en [Lengua Castellana y Literatura/Inglés/Francés/Latín].
+    * **Ámbito Científico-Tecnológico:**  Crear un problema de [Matemáticas/Física y Química/Biología y Geología/Tecnología y Digitalización] con solución paso a paso para alumnos de [Nivel Educativo].
+    * **Ámbito Social:**  Diseñar un cuestionario de preguntas guía para analizar un [acontecimiento histórico/fenómeno geográfico] en [Geografía e Historia].
+    * **Ámbito Artístico:**  Generar ideas para una presentación interactiva sobre [Música/Educación Plástica, Visual y Audiovisual/Cultura Audiovisual] para alumnos de [Nivel Educativo].
+    * **Ámbito Corporal y Salud:**  Crear una rutina de ejercicios diferenciada para alumnos con [necesidades específicas] en [Educación Física].
+    * **Ámbito Ético y Ciudadano:**  Diseñar un caso práctico para un debate ético en clase de [Valores Cívicos y Éticos/Religión] sobre [tema ético].
+
+    Una vez creado el prompt,  deben **probarlo en una herramienta de IA generativa de texto** (ej:  ChatGPT,  Bard) y **evaluar el resultado**.  Si el resultado no es satisfactorio,  deben **refinar el prompt y volver a probarlo** (iteración).
+
+    **Recursos:**  Se proporcionará una **hoja de trabajo con "plantillas" para la creación de prompts** (ej:  "Actúa como un profesor de [asignatura] de [nivel educativo].  Necesito un prompt para que me ayudes a...  Quiero que el resultado sea en formato de...  Ten en cuenta...").  Se recordarán **enlaces a herramientas de IA generativa de texto** exploradas en la Tarea 2.
+* **Rúbrica de evaluación (Tarea Final):**
+
+        | Criterio               | Insuficiente (1-4) | Suficiente (5-7) | Notable (8-9) | Sobresaliente (10) |
+        |------------------------|--------------------|-------------------|---------------|--------------------|
+        | Concreción del prompt |  Ambiguo o poco claro |  Concreto pero mejorable |  Claro y concreto |  Muy claro y específico |
+        | Resolubilidad          |  No produce resultado útil |  Resultado básico o incompleto |  Resultado útil y relevante |  Resultado excelente y muy útil |
+        | Significatividad para docencia |  Poca o ninguna relevancia |  Relevancia básica |  Relevancia significativa |  Alta relevancia e impacto potencial |
+        | Iteración y mejora     |  No hay iteración o mejora |  Iteración superficial |  Iteración con mejora evidente |  Iteración efectiva y refinamiento del prompt |
+
+* **Diario de aprendizaje (Tarea Final):**  Cada docente **publica en el Padlet**  el prompt que ha creado,  una **captura de pantalla del resultado obtenido** en la herramienta de IA y una **breve reflexión sobre la utilidad del prompt** para su práctica docente.  Pueden añadir **una pregunta que les haya surgido** al crear y probar el prompt.

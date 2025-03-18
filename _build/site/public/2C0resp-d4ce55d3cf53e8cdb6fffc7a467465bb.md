@@ -1,0 +1,108 @@
+---
+title: ¿Qué puedes hacer ante la utilización indiscriminada del alumnado de la IA?
+subtitle: Escala de integración IA generativa
+subject: Obrar del Profesorado ante la IA
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+---
+
+# Los Procesos de Aprendizaje asistidos por IA
+
+::::{important} Desafíos Éticos y Prácticos 
+:::{pull-quote}
+La creciente integración de herramientas de inteligencia artificial (IA) en el ámbito educativo plantea desafíos éticos y prácticos cruciales para los educadores. La utilización de la IA en los procesos de aprendizaje asistidos por IA es compleja y va más allá de una simple dicotomía entre lo positivo y lo negativo.
+:::
+::::
+
+# Repensar y Ajustar las Metodologías Docentes
+
+::::{important} Repensar la Labor Docente 
+:::{pull-quote}
+La IA requiere que la necesidad de repensar y ajustar las metodologías docentes tradicionales frente a este nuevo entorno tecnológico. 
+
+* ¿Cómo garantizar que los estudiantes desarrollen habilidades críticas y pensamiento autónomo en un contexto donde la IA puede automatizar procesos clave? 
+
+* ¿Qué define el uso ético o responsable de estas tecnologías, y cómo distinguir entre una ayuda legítima y una dependencia perjudicial?
+:::
+::::
+
+(niveles)=
+# Niveles para Garantizar la Integridad Académica
+
+Te puedes basar en los niveles propuestos por {cite}`10.53761/q3azde36`. Estos **niveles de de transparencia** te ayudaran a establecer **qué usos están permitidos y cuáles no con IA en cada tarea**. 
+
+
+## (0) No IA
+
+:::{tip} Sin Utilización IA
+:class: dropdown 
+
+El estudiante **no debe utilizar la IA en ningún momento** durante la tarea.
+
+> **Ejemplo:** En un examen de historia, se pide a los estudiantes que escriban un ensayo sobre las causas de la Revolución Francesa, basándose únicamente en lo aprendido en clase y en los materiales de lectura proporcionados. No se permite el uso de libros de texto, apuntes, internet ni herramientas de IA durante el examen.
+
+**Transparencia por parte del estudiante:** El estudiante debe incluir una declaración explícita en su entrega indicando: "Declaro que este trabajo ha sido realizado íntegramente por mí, sin la ayuda de ninguna herramienta de Inteligencia Artificial, internet (excepto para acceder al enunciado de la tarea si fuera necesario), ni otras fuentes externas no permitidas."
+:::
+
+## (1) Generación y estructuración de ideas asistida por IA
+
+
+:::{tip} Utilización Inicial IA
+:class: dropdown 
+
+Se permite el **uso de la IA para lluvia de ideas, crear estructuras y generar ideas para mejorar el trabajo**. Sin embargo, no se permite contenido generado por IA en la entrega final.
+
+> **Ejemplo:** Para un trabajo de investigación sobre el cambio climático, se permite a los estudiantes utilizar herramientas de IA para generar una lista inicial de posibles temas a explorar (lluvia de ideas) o para crear un esquema tentativo de la estructura del trabajo. Sin embargo, la redacción del trabajo final, el análisis de la información y las conclusiones deben ser completamente originales del estudiante.
+
+**Transparencia por parte del estudiante:** El estudiante debe incluir una sección en su entrega donde especifique:
+* Qué herramientas de IA utilizó para la lluvia de ideas o la creación de estructuras.
+* Cómo utilizó estas herramientas (por ejemplo, las indicaciones o *prompts* que proporcionó).
+* Una breve descripción de cómo las ideas o estructuras generadas por la IA influyeron en su trabajo final (sin incluir contenido directamente generado).
+:::
+
+## (2) Edición asistida por IA
+
+:::{tip} Utilización Básica IA
+:class: dropdown 
+
+La IA se puede **utilizar para mejorar la claridad o la calidad del trabajo** creado por el estudiante para perfeccionar el resultado final, **pero no se puede crear contenido nuevo utilizando IA**. El trabajo original del estudiante, sin contenido de IA, debe proporcionarse en un apéndice.
+
+> **Ejemplo:** Después de escribir un informe de laboratorio, un estudiante utiliza una herramienta de IA para identificar posibles errores de estilo o para sugerir formas de mejorar la fluidez y la coherencia del texto. 
+
+**Transparencia por parte del estudiante:** El estudiante debe incluir:
+* El trabajo original (borrador) en un apéndice.
+* Una declaración indicando qué herramienta o herramientas de IA utilizó para la edición.
+* Una breve descripción de cómo utilizó estas herramientas y qué tipo de cambios se realizaron (por ejemplo, corrección gramatical, sugerencias de estilo).
+:::
+
+## (3) Finalización de tareas con IA, evaluación humana
+
+:::{tip} Utilización Avanzada IA
+:class: dropdown 
+
+La IA se utiliza para **completar ciertos elementos de la tarea, y los estudiantes deben proporcionar una discusión o comentario sobre el contenido generado por la IA**. Este nivel requiere un compromiso crítico con el contenido generado por la IA y la evaluación de su resultado. Cualquier contenido creado por la IA debe ser citado.
+
+> **Ejemplo:** Para un proyecto de historia sobre la Guerra Civil Española, se pide a los estudiantes que utilicen una herramienta de IA para generar una breve descripción de un evento específico (por ejemplo, la Batalla del Ebro). Luego, el estudiante debe analizar críticamente la información proporcionada por la IA, compararla con otras fuentes, identificar posibles sesgos o imprecisiones y escribir un comentario reflexivo sobre su validez y utilidad para el proyecto. La descripción generada por la IA debe ser citada.
+
+**Elemento de transparencia:** El estudiante debe:
+* Identificar claramente qué partes de su trabajo fueron generadas por la IA.
+* Citar la herramienta de IA utilizada (si es posible, incluyendo el nombre y la versión).
+* Incluir una discusión o comentario crítico sobre el contenido generado por la IA, demostrando su comprensión y evaluación del mismo. Esto podría incluir la comparación con otras fuentes, el análisis de su precisión, la identificación de posibles sesgos, etc.
+:::
+
+## (4) Utilización Experta IA
+
+:::{tip} 
+:class: dropdown 
+
+La IA debe utilizarse como **un 'copiloto' para cumplir con los requisitos de la tarea, permitiendo un enfoque colaborativo con la IA y mejorando la creatividad**. El estudiante puede usar la IA en toda su evaluación para apoyar su propio trabajo y no tiene que especificar qué contenido fue generado por la IA.
+
+> **Ejemplo:** En un proyecto de escritura creativa, un estudiante utiliza una herramienta de IA para generar ideas para personajes, tramas o escenarios. El estudiante trabaja iterativamente con la IA, refinando las sugerencias y combinándolas con sus propias ideas para crear una historia original. En la entrega final, no es necesario especificar qué partes fueron generadas por la IA, ya que se considera un proceso colaborativo.
+
+**Elemento de transparencia:** Aunque no se requiere especificar qué contenido fue generado por la IA, para fomentar la transparencia y la reflexión sobre el proceso, el estudiante podría incluir una breve descripción en su entrega sobre:
+* Las herramientas de IA que utilizó como "copiloto".
+* De qué manera específica la IA apoyó su trabajo y mejoró su creatividad (por ejemplo, generación de ideas, exploración de diferentes enfoques, etc.).
+* Una reflexión general sobre la experiencia de trabajar colaborativamente con la IA en la tarea.
+:::

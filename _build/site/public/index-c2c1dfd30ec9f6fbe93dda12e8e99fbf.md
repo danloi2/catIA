@@ -1,0 +1,69 @@
+---
+title: Taller de Formación
+subtitle: Portada
+subject: Introducción y Presentación
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+---
+
+:::{hero}
+Catecismo de la {orange}`Inteligencia Artificial`
+:::
+
+:::{epigraph}
+Ad discendum quod opus est nulla mihi aetas sera videri potest.
+
+No hay edad que me parezca demasiado tardía para aprender lo que es necesario.
+
+-- San Agustín (354-430)
+:::
+
+{large}`¡Bienvenidos a una experiencia de aprendizaje en la que intentaremos dar respuesta a esta cuestión!`
+
+@
+:::{pull-quote}
+¿Cómo crees que la Inteligencia Artificial puede transformar tu práctica docente en el Seminario Menor?
+:::
+
+Este taller práctico de 3 horas explorará la Inteligencia Artificial (IA) y su aplicación en la práctica docente, desde sus fundamentos éticos y tecnológicos hasta la creación de prompts efectivos para optimizar la enseñanza y el aprendizaje. 
+
+El producto final será:
+
+:::{pull-quote}
+Diseñar y probar un prompt de IA aplicable a tu área de conocimiento. 
+:::
+
+# Resumen de lo que el profesorado va a aprender
+
+- [x] Comprenderás los principios básicos de la IA
+ explorarán herramientas y prácticas pedagógicas con IA
+- [x] Reflexionarás sobre la ética en su uso y aprenderán a crear prompts efectivos para la IA.
+- [x] Integrarás la IA de manera significativa y responsable en su labor docente.
+
+# Itinerario de aprendizaje
+
+1. Primeros Pasos
+
+Introducción y motivación al taller. (20')
+
+2. Tarea 1 (CREDO de la IA) 
+
+Exploración de los fundamentos de la IA. (30')
+
+3. Tarea 2 (LITURGIA de la IA) 
+
+Descubrimiento de herramientas y prácticas con IA. (30')
+
+4. Tarea 3 (OBRAR del profesorado ante la IA)
+
+Reflexión sobre la ética en el uso de la IA. (30')
+
+5. Tarea Final (ORACIÓN de la IA)
+
+Creación y prueba de prompts de IA para la práctica docente.(30')
+
+6. Autoevaluación del Taller
+
+Reflexión sobre el aprendizaje y utilidad del taller. (10')

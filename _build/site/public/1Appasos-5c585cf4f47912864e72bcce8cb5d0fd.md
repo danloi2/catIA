@@ -1,0 +1,102 @@
+---
+title: Comenzamos
+subtitle: Primeros Pasos
+subject: Introducción y Presentación
+site:
+  hide_outline: false
+  hide_toc: false
+  hide_title_block: false
+---
+
+# Introducción
+
+La incorporación de la Inteligencia Artificial (IA) en el ámbito educativo está abriendo **nuevas posibilidades para transformar tanto las prácticas docentes como las experiencias de aprendizaje de los estudiantes**. 
+
+La IA no solo permite personalizar el proceso educativo, **adaptando los contenidos a las necesidades individuales** de cada estudiante, sino que también ofrece **herramientas para automatizar tareas administrativas**, como la calificación y la planificación de lecciones, liberando tiempo valioso para que los docentes se enfoquen en aspectos más estratégicos de su labor . 
+
+Sin embargo, este avance tecnológico también **plantea desafíos importantes**, como el riesgo de despersonalización de la educación si no se equilibra adecuadamente con la interacción humana. 
+
+Un ejemplo ilustrativo:
+
+* Explora algunas de estas páginas y lleva a cabo estos sencillos experimentos para poner a prueba tu habilidad para distinguir entre contenido generado por inteligencia artificial y creaciones realizadas por seres humanos.
+
+  * https://quickdraw.withgoogle.com/
+  * https://artsandculture.google.com/experiment/odd-one-out/wAHNn4JsVTFOiw?hl=en
+  * https://docs.google.com/forms/d/173yFMDOJ3IMjMQTGmkIP2TxfC5Ap2Y_OcL_wgtuI8vY/edit
+
+En este contexto, surge una pregunta clave:
+
+{large}`¿Cómo crees que la Inteligencia Artificial puede transformar tu práctica docente en el Seminario Menor?`
+
+Reflexionar sobre esta cuestión te permitirá explorar cómo aprovechar el potencial de la IA para innovar en nuestras metodologías pedagógicas y mejorar los resultados educativos de manera inclusiva y sostenible
+
+Pero, ¿cómo darás respuesta a esta cuestion? Mediante una **Mini Situación de Aprendizaje** (SdA).`
+
+
+# Mini SdA
+
+##  Descripción
+
+
+Este taller te invita a **descubrir la Inteligencia Artificial** y cómo puedes aplicarla en tu labor docente en el Seminario Menor. Exploraremos juntos cómo la IA puede enriquecer tus clases y el aprendizaje de tus alumnos.
+
+**Inspirados**, con sumo respeto y humildad, por la **estructura del Catecismo católico**, que se divide en cuatro partes esenciales: (1) Credo (Profesión de fe), (2) Liturgia (Celebración del misterio cristiano), (3) Obrar (La vida en Cristo) y (4) Oración (La oración cristiana). Siguiendo este esquema, el taller se organizará en cuatro tareas temáticas similares:
+
+* **Conocimiento**: Te familiarizarás con los conceptos básicos de la IA y sus aplicaciones en la educación.
+
+* **Herramientas**: Descubrirás herramientas prácticas de IA que puedes utilizar en tus clases.
+
+* **Ética**: Reflexionarás sobre el uso ético y responsable de la IA en el contexto educativo y espiritual del Seminario.
+
+* **Aplicación**: ¿Cómo te puedes comunicar con la IA para que realice la tarea que le pides?-Diseñarás y pondrás a prueba un "prompt" de IA específico para tu asignatura, integrando así la tecnología de manera coherente con los principios del Seminario.
+
+A través de estas tareas, podrás **integrar la IA de forma respetuosa y efectiva en tu enseñanza**, siempre en línea con los valores educativos y espirituales del Seminario.
+
+## Producto Final
+
+El reto final es **crear un prompt de IA** que ayude a los docentes en una tarea específica de su práctica docente,  relacionada con su área de conocimiento.  La evaluación se basará en la **participación activa** en las tareas, la **calidad del prompt diseñado** (concreción, resolubilidad, significatividad) y la **reflexión personal** sobre el aprendizaje.  
+
+## Organización del aula
+
+Trabajo individual y en pequeño grupo (parejas).
+
+## Organización Temporal
+
+### Número de sesiones
+
+1 sesión de 3 horas.
+
+### Temporalización
+
+- [ ] Primeros pasos: 20 minutos
+- [ ] Tarea 1 (CREDO): 30 minutos 
+  - Presentación teórica: 10'
+  - Tarea práctica: 20'
+- [ ] Tarea 2 (LITURGIA): 30 minutos 
+  - Presentación teórica: 10'
+  - Tarea práctica: 20'
+- [ ] Tarea 3 (OBRAR): 30 minutos
+  - Presentación teórica: 10' 
+  - Tarea práctica: 20'
+- [ ] Tarea Final (ORACIÓN): 30 minutos
+  - Presentación teórica: 10 min
+  - Tarea práctica: 20 min
+- [ ] Evaluación y cierre: 10 minutos
+
+## Recursos
+
+- [ ] Ordenadores con acceso a internet (o dispositivos personales),  proyector,  pizarra,  herramientas IA online (se proporcionarán alternativas gratuitas y sencillas).
+- [ ] Mural de aprendizaje colaborativo
+
+Para participar en el taller, crearás una cuenta de usuario en Padlet, si aún no la tienes. Puedes hacerlo fácilmente siguiendo las instrucciones disponibles en su sitio web: 
+
+[Registro en Padlet](https://padlet.com/auth/signup)
+
+Una vez registrado, accederás al Padlet previamente creado, titulado "Catecismo de la IA" , donde se recogerán todas las contribuciones de todos los participantes. 
+
+:::{iframe} https://padlet.com/embed/vbqdwarbv2c507o0
+:width: 100%
+Elije la herramienta TIC adecuada
+:::
+
+En este espacio colaborativo, podrás compartir capturas de pantalla de prompts, reflexiones, preguntas y aportes relacionados con las actividades del taller. Este Padlet será visible para todos los asistentes, facilitando la interacción y el aprendizaje conjunto.

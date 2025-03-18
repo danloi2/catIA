@@ -79,7 +79,8 @@ project:
         - file: 2C1eticaIA.md
     - title: Oración de la IA
       children:
-        - file: 3Aprompt.md
+        - file: 3A0prompt.md
+        - file: 3A1orar.md
     - file: 3Beval.md
     - file: 0Aguia.md
 site:

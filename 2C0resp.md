@@ -17,14 +17,10 @@ Hay que probar otra forma.
 
 # Los Procesos de Aprendizaje asistidos por IA: Repensar y Ajustar las Metodologías Docentes
 
-::::{important} Desafíos Éticos y Prácticos 
+::::{important} Desafíos Éticos y Prácticos. Repensar la Labor Docente 
 :::{pull-quote}
 La creciente integración de herramientas de inteligencia artificial (IA) en el ámbito educativo plantea desafíos éticos y prácticos cruciales para los educadores. La utilización de la IA en los procesos de aprendizaje asistidos por IA es compleja y va más allá de una simple dicotomía entre lo positivo y lo negativo.
-:::
-::::
 
-::::{important} Repensar la Labor Docente 
-:::{pull-quote}
 La IA requiere que la necesidad de repensar y ajustar las metodologías docentes tradicionales frente a este nuevo entorno tecnológico. 
 
 * ¿Cómo garantizar que los estudiantes desarrollen habilidades críticas y pensamiento autónomo en un contexto donde la IA puede automatizar procesos clave? 

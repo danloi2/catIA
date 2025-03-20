@@ -8,6 +8,16 @@ site:
   hide_title_block: false
 ---
 
+:::{epigraph}
+«Minervam sus docet»​
+
+Un cerdo enseña a Minerva
+
+-- Cicerón (63-31 a.C.)​
+:::
+
+
+
 # Introducción
 
 La incorporación de la Inteligencia Artificial (IA) en el ámbito educativo está abriendo **nuevas posibilidades para transformar tanto las prácticas docentes como las experiencias de aprendizaje de los estudiantes**. 

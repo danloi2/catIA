@@ -11,7 +11,7 @@ site:
 :::{epigraph}
 «Ália tentanda est via​​»​
 
-De lo conocido a lo desconocido
+Hay que probar otra forma.
 
 -- Séneca (Siglo I)
 

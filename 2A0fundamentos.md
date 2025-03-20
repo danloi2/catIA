@@ -8,6 +8,14 @@ site:
   hide_title_block: false
 ---
 
+:::{epigraph}
+«A notis ad ignota​»​
+
+De lo conocido a lo desconocido
+
+-- Cicerón (63-31 a.C.)​
+:::
+
 # Definición de IA
 :::{important} Inteligencia Artificial
 :::{pull-quote}

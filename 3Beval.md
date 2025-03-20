@@ -24,6 +24,5 @@ Para finalizar el taller, te invito a que valores estos dos aspectos principales
 
 :::{iframe} https://www.mentimeter.com/app/presentation/algt7qxkjwf6m58vueds8acyb6o31itc/embed
 :width: 100%
-:height: 600px
 :align: center
 :::

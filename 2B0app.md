@@ -255,7 +255,7 @@ Una plataforma en línea diseñada para proporcionar a los educadores herramient
 ::::{card} Catholic.chat
 :header: Fivable
 :footer: https://www.catholic.chat/
-:link: https://teacherserver.com/
+:link: https://www.catholic.chat/
 una herramienta impulsada por inteligencia artificial diseñada para proporcionar respuestas a preguntas sobre el catolicismo y las enseñanzas de la Iglesia Católica. Utiliza el Catecismo de la Iglesia Católica como su principal fuente de información.
 :::{image} img/catholic.png
 :alt: Imagen generada por catholic

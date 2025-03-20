@@ -8,6 +8,14 @@ site:
   hide_title_block: false
 ---
 
+:::{epigraph} 
+
+«Omne conatum levat consuetudo​»​
+
+Todo esfuerzo se alivia con el hábito.
+
+-- Tito Livio (59 a. C - 17 d. C.)​​:::
+
 # Algunos Ejemplos Significativos de Herramientas IA
 
 ::::{important} Diversidad de Herramientas IA

@@ -29,7 +29,7 @@ La IA requiere que la necesidad de repensar y ajustar las metodologías docentes
 :::
 ::::
 
-(niveles)=
+
 # Niveles para Garantizar la Integridad Académica
 
 Te puedes basar en los niveles propuestos por {cite}`10.53761/q3azde36`. Estos **niveles de de transparencia** te ayudaran a establecer **qué usos están permitidos y cuáles no con IA en cada tarea**. 

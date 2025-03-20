@@ -250,4 +250,28 @@ Una plataforma en línea diseñada para proporcionar a los educadores herramient
 :::
 ::::
 
+## Herramientas IA para Religión Católica
+
+::::{card} Catholic.chat
+:header: Fivable
+:footer: https://www.catholic.chat/
+:link: https://teacherserver.com/
+una herramienta impulsada por inteligencia artificial diseñada para proporcionar respuestas a preguntas sobre el catolicismo y las enseñanzas de la Iglesia Católica. Utiliza el Catecismo de la Iglesia Católica como su principal fuente de información.
+::::
+
+::::{card} Magisterium
+:header: longbeard
+:footer: https://www.magisterium.com/es
+:link: https://www.magisterium.com/es
+uNA herramienta de inteligencia artificial desarrollada por la empresa Longbeard que utiliza una extensa base de datos de alrededor de 5.700 documentos del magisterio de la Iglesia Católica y más de 2.300 obras teológicas y filosóficas del mundo católico para responder preguntas sobre la fe católica.
+::::
+
+::::{card} categpt.chat
+:header: longbeard
+:footer: https://categpt.chat/
+:link: https://categpt.chat/
+Una herramienta de inteligencia artificial gratuita que utiliza la información oficial del Vaticano (como el Catecismo, la Biblia y documentos papales) para responder preguntas sobre la fe católica de una manera accesible y con un enfoque de debate
+::::
+
+
 

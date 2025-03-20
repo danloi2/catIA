@@ -8,6 +8,16 @@ site:
   hide_title_block: false
 ---
 
+::{epigraph}
+
+«Omne conatum levat consuetudo​»​
+
+Todo esfuerzo se alivia con el hábito.
+
+-- Tito Livio (59 a. C - 17 d. C.)​​
+
+:::
+
 # Introducción
 
 En esta actividad final, tendrás la oportunidad de consolidar tu aprendizaje sobre la integración de la **Inteligencia Artificial generativa** en tu práctica docente. Podrás **aprovechar el trabajo realizado en la @2B1ritualesIA** y, utilizando el **@decaprompt**, mejorar o crear un nuevo prompt para tu labor docente que ya utilizas en el aula de educación secundaria. `(30')`

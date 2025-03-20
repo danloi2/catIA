@@ -13,7 +13,7 @@ Catecismo de la {orange}`Inteligencia Artificial`
 :::
 
 :::{epigraph}
-Ad discendum quod opus est nulla mihi aetas sera videri potest.
+«Ad discendum quod opus est nulla mihi aetas sera videri potest»​
 
 No hay edad que me parezca demasiado tardía para aprender lo que es necesario.
 

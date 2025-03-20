@@ -8,6 +8,13 @@ site:
   hide_title_block: false
 ---
 
+:::{epigraph}
+«Ália tentanda est via​​»​
+
+De lo conocido a lo desconocido
+
+-- Séneca (Siglo I)
+
 # Los Procesos de Aprendizaje asistidos por IA
 
 ::::{important} Desafíos Éticos y Prácticos 

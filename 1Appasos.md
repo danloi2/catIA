@@ -101,10 +101,14 @@ Trabajo individual y en pequeño grupo (parejas).
 
 - [ ] Ordenadores con acceso a internet (o dispositivos personales),  proyector,  pizarra,  herramientas IA online (se proporcionarán alternativas gratuitas y sencillas).
 - [ ] Aplicaciones TIC para la Educación
+
+
 :::{iframe} https://view.genially.com/6746ef717d0d0098a8aa6132
 :width: 100%
 Elije la herramienta TIC adecuada
 :::
+
+
 - [ ] Mural de aprendizaje colaborativo
 
 Para participar en el taller, crearás una cuenta de usuario en Padlet, si aún no la tienes. Puedes hacerlo fácilmente siguiendo las instrucciones disponibles en su sitio web: 

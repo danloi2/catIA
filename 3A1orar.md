@@ -8,7 +8,7 @@ site:
   hide_title_block: false
 ---
 
-::{epigraph}
+:::{epigraph}
 
 «Omne conatum levat consuetudo​»​
 

@@ -164,7 +164,6 @@ Markdown es un formato de texto plano ligero y fácil de leer, diseñado para es
 
 ::::{admonition} Ejemplo de Markdown y su Resultado 
 :class: dropdown
-Aquí tienes el código Markdown:
 
 :::markdown
 # Un título

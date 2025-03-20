@@ -10,11 +10,12 @@ site:
 
 :::{epigraph} 
 
-«Omne conatum levat consuetudo​»​
+«Per aspera ad astra»​
 
-Todo esfuerzo se alivia con el hábito.
+A través de las dificultades hacia las estrellas.
 
--- Tito Livio (59 a. C - 17 d. C.)​​:::
+-- Paremia Latina
+:::
 
 # Algunos Ejemplos Significativos de Herramientas IA
 

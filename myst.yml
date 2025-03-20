@@ -10,7 +10,7 @@ project:
   description: Taller sobre IA para profesorado en activo
   # keywords: []
   bibliography: recursos/biblio.bib
-  date: 2025-03-20
+  date: 2025-03-15
   plugins:
     - src/xref.mjs
     - src/landing-page.mjs

@@ -15,17 +15,15 @@ Hay que probar otra forma.
 
 -- Séneca (Siglo I)
 
-# Los Procesos de Aprendizaje asistidos por IA
+# Los Procesos de Aprendizaje asistidos por IA: Repensar y Ajustar las Metodologías Docentes
 
-:::{important} Desafíos Éticos y Prácticos 
+::::{important} Desafíos Éticos y Prácticos 
 :::{pull-quote}
 La creciente integración de herramientas de inteligencia artificial (IA) en el ámbito educativo plantea desafíos éticos y prácticos cruciales para los educadores. La utilización de la IA en los procesos de aprendizaje asistidos por IA es compleja y va más allá de una simple dicotomía entre lo positivo y lo negativo.
 :::
-:::
+::::
 
-# Repensar y Ajustar las Metodologías Docentes
-
-:::{important} Repensar la Labor Docente 
+::::{important} Repensar la Labor Docente 
 :::{pull-quote}
 La IA requiere que la necesidad de repensar y ajustar las metodologías docentes tradicionales frente a este nuevo entorno tecnológico. 
 
@@ -33,7 +31,7 @@ La IA requiere que la necesidad de repensar y ajustar las metodologías docentes
 
 * ¿Qué define el uso ético o responsable de estas tecnologías, y cómo distinguir entre una ayuda legítima y una dependencia perjudicial?
 :::
-:::
+::::
 
 (niveles)=
 # Niveles para Garantizar la Integridad Académica

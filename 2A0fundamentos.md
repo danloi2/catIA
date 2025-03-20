@@ -13,7 +13,7 @@ site:
 
 De lo conocido a lo desconocido
 
--- Cicerón (63-31 a.C.)​
+-- Paremia Latina
 :::
 
 # Definición de IA

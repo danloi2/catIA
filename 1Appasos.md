@@ -68,7 +68,7 @@ A través de estas tareas, podrás **integrar la IA de forma respetuosa y efecti
 
 ## Producto Final
 
-El reto final es **crear un prompt de IA** que ayude a los docentes en una tarea específica de su práctica docente,  relacionada con su área de conocimiento.  La evaluación se basará en la **participación activa** en las tareas, la **calidad del prompt diseñado** (concreción, resolubilidad, significatividad) y la **reflexión personal** sobre el aprendizaje.  
+El reto final es **crear un prompt de IA** que te ayude como docente en una tarea específica de su práctica docente, relacionada con tu área de conocimiento.  La evaluación se basará en la **participación activa** en las tareas, la **calidad del prompt diseñado** (concreción, resolubilidad, significatividad) y la **reflexión personal** sobre el aprendizaje.  
 
 ## Organización del aula
 

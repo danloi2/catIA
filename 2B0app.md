@@ -281,7 +281,7 @@ Una herramienta de inteligencia artificial desarrollada por la empresa Longbeard
 :footer: https://categpt.chat/
 :link: https://categpt.chat/
 Una herramienta de inteligencia artificial gratuita que utiliza la información oficial del Vaticano (como el Catecismo, la Biblia y documentos papales) para responder preguntas sobre la fe católica de una manera accesible y con un enfoque de debate
-::{image} img/categpt.png
+:::{image} img/categpt.png
 :alt: Imagen generada por Categpt
 :width: 500px
 :align: center

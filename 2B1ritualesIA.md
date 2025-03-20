@@ -46,11 +46,11 @@ a) Utiliza la herramienta que has elegido y dale alguna de las siguientes instru
         * "Crea una imagen que represente el descubrimiento de Ámerica por parte de los españoles."
         * "Genera una ilustración sencilla de las fases de la mitosis."
         * "Visualiza un paisaje de la selva amazónica."
-        * "Genera la imagen del simbolo matematico Pi."
-        * "Genera una imagen que represente un ejercicio aerobico realizado por un adolescente."
+        * "Genera la imagen del símbolo matemático Pi."
+        * "Genera una imagen que represente un ejercicio aeróbico realizado por un adolescente."
 
     * **Realización de Traducciones**
-
+ó
         * "Traduce al Latín la frase: 'La importancia de aprender idiomas'."
         * "Traduce al Inglés un breve texto sobre el descubrimiento de América."
 
